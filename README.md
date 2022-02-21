@@ -18,4 +18,4 @@ git clone https://github.com/XPsychoDemonX/Kira_Tracker.git
 cd Kira_Tracker
 
 
-python3 KiraTracker.py
+python3 Kira_Tracker.py
