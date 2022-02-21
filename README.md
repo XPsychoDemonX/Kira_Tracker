@@ -7,11 +7,15 @@ Coleta Informativa de Endereço IP
 Instalação (Linux/Termux)
 ------
 apt install git
-.
+
+
 apt install python3
-.
+
+
 git clone https://github.com/XPsychoDemonX/Kira_Tracker.git
-.
+
+
 cd Kira_Tracker
-.
+
+
 python3 KiraTracker.py
