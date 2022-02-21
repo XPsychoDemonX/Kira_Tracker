@@ -9,7 +9,7 @@ Instalação (Linux)
 apt install git
 
 
-apt install python3
+apt install python
 
 
 pip install requests
@@ -29,7 +29,7 @@ Instalação (Termux)
 pkg install git
 
 
-pkg install python3
+pkg install python
 
 
 pip install requests
