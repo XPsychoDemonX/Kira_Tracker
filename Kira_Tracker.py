@@ -7,7 +7,7 @@ print('''\033[31m
  | ' /| | '__/ _` |   | || '__/ _` |/ __| |/ / _ \ '__|
  | . \| | | | (_| |   | || | | (_| | (__|   <  __/ |   
  |_|\_\_|_|  \__,_|   |_||_|  \__,_|\___|_|\_\___|_|   \033[0;0m
-            by: kira0666@protonmail.com                                                                                                                            
+            by: xxlightxx00@protonmail.com                                                                                                                            
 ''')
 ip = input("\033[31m-----> IP:\033[31m ")
 
@@ -41,5 +41,5 @@ print("\033[36m Requisicoes Concluidas:\033[0;0m      {}".format(request['comple
 print("\033[36m Proxy:\033[0;0m                       Unknown")
 print("""
 
-contato: kira0666@protonmail.com
+contato: xxlightxx00@protonmail.com
 """)
